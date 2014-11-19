@@ -1,0 +1,18 @@
+C:\Users\Jonathan\AppData\Local\Temporary Projects\TwitterAPItest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jonathan\AppData\Local\Temporary Projects\TwitterAPItest\obj\x86\Release\TwitterAPItest.Form1.resources
+C:\Users\Jonathan\AppData\Local\Temporary Projects\TwitterAPItest\obj\x86\Release\TwitterAPItest.Properties.Resources.resources
+C:\Users\Jonathan\AppData\Local\Temporary Projects\TwitterAPItest\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Jonathan\AppData\Local\Temporary Projects\TwitterAPItest\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Jonathan\documents\visual studio 2010\Projects\TwitterAPItest\TwitterAPItest\bin\Release\TwitterAPItest.exe.config
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\obj\x86\Release\TwitterAPItest.Form1.resources
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\obj\x86\Release\TwitterAPItest.Properties.Resources.resources
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\bin\Release\TwitterAPItest.exe
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\bin\Release\TwitterAPItest.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\bin\Release\Twitterizer2.dll
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\bin\Release\Newtonsoft.Json.dll
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\obj\x86\Release\TwitterAPItest.exe
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\obj\x86\Release\TwitterAPItest.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\bin\Release\mysql.data.dll

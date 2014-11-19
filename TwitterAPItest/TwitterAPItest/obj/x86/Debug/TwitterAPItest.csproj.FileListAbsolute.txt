@@ -1,0 +1,15 @@
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\bin\Debug\TwitterAPItest.exe.config
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\bin\Debug\TwitterAPItest.exe
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\bin\Debug\TwitterAPItest.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\bin\Debug\Twitterizer2.dll
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\obj\x86\Debug\TwitterAPItest.Form1.resources
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\obj\x86\Debug\TwitterAPItest.Properties.Resources.resources
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\obj\x86\Debug\TwitterAPItest.exe
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\obj\x86\Debug\TwitterAPItest.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\bin\Debug\mysql.data.dll
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\obj\x86\Debug\TwitterAPItest.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\TwitterAPItest\TwitterAPItest\obj\x86\Debug\TwitterAPItest.csproj.GenerateResource.Cache
